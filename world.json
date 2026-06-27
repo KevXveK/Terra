@@ -1,0 +1,42 @@
+{
+  "title": "Terra",
+  "id": "terra",
+  "system": "pf1",
+  "joinTheme": "default",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "11.11",
+  "lastPlayed": "Sat Jun 27 2026 02:26:09 GMT-0300 (Horário Padrão de Brasília)",
+  "playtime": 41860,
+  "packs": [
+    {
+      "label": "Summon Animals",
+      "type": "Actor",
+      "name": "summon-animals",
+      "path": "packs/summon-animals",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Summon Celestial",
+      "type": "Actor",
+      "name": "summon-celestial",
+      "path": "packs/summon-celestial",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": "",
+  "flags": {}
+}
