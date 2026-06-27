@@ -5,8 +5,8 @@
   "joinTheme": "default",
   "coreVersion": "13.351",
   "manifest": "https://raw.githubusercontent.com/KevXveK/Terra/main/world.json",
-  "download": "https://github.com/KevXveK/Terra/releases/download/1.0.0/Terra.zip"
-  "url": "https://github.com/KevXveK/Terra"
+  "download": "https://github.com/KevXveK/Terra/releases/download/1.0.0/Terra.zip",
+  "url": "https://github.com/KevXveK/Terra",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
