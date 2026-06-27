@@ -4,6 +4,7 @@
   "system": "pf1",
   "joinTheme": "default",
   "coreVersion": "13.351",
+  "download": "https://github.com/KevXveK/Terra/releases/download/v1.0.0/Terra.zip"
   "compatibility": {
     "minimum": "13",
     "verified": "13"
