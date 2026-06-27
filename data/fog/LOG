@@ -1,0 +1,16 @@
+2026/06/26-22:21:01.276 7f6c Recovering log #39
+2026/06/26-22:21:01.277 7f6c Level-0 table #41: started
+2026/06/26-22:21:01.285 7f6c Level-0 table #41: 43510 bytes OK
+2026/06/26-22:21:01.301 7f6c Delete type=0 #39
+2026/06/26-22:21:01.301 7f6c Delete type=3 #38
+2026/06/27-02:26:13.894 5c5c Level-0 table #44: started
+2026/06/27-02:26:13.898 5c5c Level-0 table #44: 0 bytes OK
+2026/06/27-02:26:13.903 5c5c Delete type=0 #42
+2026/06/27-02:26:13.903 5c5c Manual compaction at level-0 from '!fog!AMg6RfVyCfQb2J1G' @ 72057594037927935 : 1 .. '!fog!sabdyCTxJ3HiBoNh' @ 0 : 0; will stop at '!fog!sabdyCTxJ3HiBoNh' @ 18 : 1
+2026/06/27-02:26:13.903 5c5c Compacting 1@0 + 1@1 files
+2026/06/27-02:26:13.920 5c5c Generated table #45@0: 3 keys, 132004 bytes
+2026/06/27-02:26:13.920 5c5c Compacted 1@0 + 1@1 files => 132004 bytes
+2026/06/27-02:26:13.924 5c5c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/27-02:26:13.924 5c5c Delete type=2 #37
+2026/06/27-02:26:13.924 5c5c Delete type=2 #41
+2026/06/27-02:26:13.930 5c5c Manual compaction at level-0 from '!fog!sabdyCTxJ3HiBoNh' @ 18 : 1 .. '!fog!sabdyCTxJ3HiBoNh' @ 0 : 0; will stop at (end)
